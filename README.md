@@ -59,9 +59,16 @@ After scraping the raw data,  its needed to be cleaned up so I can use for the m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![]()
-![]()
-![]()
+<p align="center">
+  <img src="image/correlation.png" alt="Correlation">
+</p> 
+<p align="center">
+  <img src="image/salary_by_job_title.png" alt="Salary by Job Title">
+</p> 
+<p align="center">
+  <img src="image/wordcloud.png" alt="Word Cloud in Job Description">
+</p> 
+
 
 ## Model Building 
 
